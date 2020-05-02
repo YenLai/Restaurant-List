@@ -35,7 +35,7 @@ Ctrl+C *2  //連按兩下Ctrl+C結束批次工作
 
 ## 使用工具
 
-- [VScode](https://visualstudio.microsoft.com/zh-hant/) -開發環境
+- [VScode](https://code.visualstudio.com/) -開發環境
 - [express](https://www.npmjs.com/package/express) -應用程式框架
 - [express-handlebars](https://www.npmjs.com/package/express-handlebars) -模版引擎
 
