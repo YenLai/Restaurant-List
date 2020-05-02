@@ -31,7 +31,12 @@ Ctrl+C *2  //連按兩下Ctrl+C結束批次工作
 ```
 7. 可開啟任一瀏覽器，輸入[http://localhost:3000](http://localhost:3000)即可開始使用!
 
-***
+## Screen Photo
+
+![image](https://github.com/YenLai/Restaurant-List/blob/master/restaurant.PNG)
+
+![image](https://github.com/YenLai/Restaurant-List/blob/master/restaurant_2.PNG)
+
 
 ## 使用工具
 
